@@ -1,0 +1,38 @@
+.heading
+{
+    font-size: 25;
+    width: 100%;
+    margin: 0px;
+}
+
+body
+{
+    background-size: cover;
+}
+.instructions
+{
+    font-size: 15px;
+    color: white;
+}
+.div_speed
+{
+    width: 200px;
+    float: right;
+}
+.speed
+{
+    color: white;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.volume
+{
+    color: white;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.div_volume
+{
+   width: 200px;
+   float: left;
+}
